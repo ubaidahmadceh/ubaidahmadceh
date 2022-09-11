@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Ubaid 💻 (A Data Scientist, who is very passionate towards Machine Learning, Deep Learning (ANN, CNN, RNN), Artificial Intelligence etc. 😄)
 <!--
 **ubaidahmadceh/ubaidahmadceh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
