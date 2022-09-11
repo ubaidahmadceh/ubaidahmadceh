@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I am Ubaid 💻 (A Data Scientist, who is very passionate towards Machine Learning, Deep Learning (ANN, CNN, RNN), AI etc. 😄)
+I am Ubaid 💻 (A Data Scientist, who is very passionate towards AI, Machine Learning, Deep Learning (ANN, CNN, RNN) etc. 😄)
 
 🐍 I am a proficient programmer in Python, with working knowledge of R.
 
 ✨ I am well versed with the practical application as well as theory and statistics of majority of Machine Learning and Deep Learning Algorithms.
 
-🔰 I can deploy Machine Learning and Deep Learning models using Flask, Djnago and Streamlit.
+🔰 I can deploy Machine Learning and Deep Learning models using Flask, Django and Streamlit.
 
-🌏 I have also built several websites using Flask, Djnago, HTML, CSS and basic Javascript.
+🌏 I have also built several websites using Flask, Django, HTML, CSS and basic Javascript.
 
 ### Contact me:
 
