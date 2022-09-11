@@ -10,17 +10,27 @@ I am Ubaid 💻 (A Data Scientist, who is very passionate towards Machine Learni
 
 🌏 I have also built several websites using Flask, Djnago, HTML, CSS and basic Javascript.
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+### Contact me:
+
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/ubaidahmadceh/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCtIKyejnNPYaEXB5sgYADlg">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://wa.me/923484122900">
+      <img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    </a>
+  </div>
 </div>
+
+### Resume:
+Checkout My [Resume](https://drive.google.com/file/d/1KRBjANsBFVFncM1nA8-57IeQkCDg1xk_/view?usp=sharing).
+
+### Website:
+Checkout My Website [www.ubprogrammer.com](https://ubprogrammer.com/).
 <!--
 **ubaidahmadceh/ubaidahmadceh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
