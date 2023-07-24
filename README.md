@@ -27,7 +27,7 @@ I am Ubaid 💻 (A Data Scientist, very passionate towards AI, Machine Learning,
 </div>
 
 ### Resume:
-Checkout My [Resume](https://drive.google.com/file/d/1KRBjANsBFVFncM1nA8-57IeQkCDg1xk_/view?usp=sharing).
+Checkout My [Resume](https://drive.google.com/file/d/1Enn004QgYgptG4r6TjkjbHpksc8GD-bq/view?usp=sharing).
 
 ### Website:
 Checkout My Website [www.ubprogrammer.com](https://ubprogrammer.com/).
