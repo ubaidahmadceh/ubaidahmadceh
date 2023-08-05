@@ -27,7 +27,7 @@ I am Ubaid 💻 (A Data Scientist, very passionate towards AI, Machine Learning,
 </div>
 
 ### Resume:
-Checkout My [Resume](https://drive.google.com/file/d/1Enn004QgYgptG4r6TjkjbHpksc8GD-bq/view?usp=sharing).
+Checkout My [Resume](https://drive.google.com/file/d/179uE9puC5_qYkz13K_jAFVxwXdeSHxKZ/view?usp=sharing).
 
 <!--
 **ubaidahmadceh/ubaidahmadceh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
