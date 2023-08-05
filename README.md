@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ubaid 💻 (A Data Scientist, very passionate towards AI, Machine Learning, Deep Learning etc. 😄)
+I am Ubaid 💻 (An AI Engineer, very passionate towards AI, Machine Learning, Deep Learning etc. 😄)
 
 🐍 I am a proficient programmer in Python, with working knowledge of R.
 
