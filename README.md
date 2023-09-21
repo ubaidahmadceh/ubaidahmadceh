@@ -27,7 +27,7 @@ I am Ubaid 💻 (An AI Engineer, very passionate towards AI, Machine Learning, D
 </div>
 
 ### Resume:
-Checkout My [Resume](https://drive.google.com/file/d/179uE9puC5_qYkz13K_jAFVxwXdeSHxKZ/view?usp=sharing).
+Checkout My [Resume](https://drive.google.com/file/d/1GefnA2e-Rb236da823rD55zXqYXieaPG/view?usp=sharing).
 
 <!--
 **ubaidahmadceh/ubaidahmadceh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
