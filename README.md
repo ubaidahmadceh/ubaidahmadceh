@@ -6,11 +6,11 @@ You can take a quick look at my work/portfolio on my YouTube Channel: @UBprogram
 
 ## My everyday work includes: 
 - **Generative AI**: LLMs, OpenAI Products, LangChain, HuggingFace, GPT models, NLP, Vector dbs, etc.
-- Programming Languages: Python, JavaScript, Html, Css
-- Backend Frameworks (APIs): Django, Flask, FastAPI
-- Cloud & Deployment: AWS, GCP, Azure, Replit, Dockers, Kubernetes, Nginx
-- ML Model Building: TensorFlow, PyTorch, SkLearn
-- Data Handling: Cleaning, Wrangling, Visualizing, Story telling
+- **Programming Languages**: Python, JavaScript, Html, Css
+- **Backend Frameworks (APIs)**: Django, Flask, FastAPI
+- **Cloud & Deployment**: AWS, GCP, Azure, Replit, Dockers, Kubernetes, Nginx
+- **ML Model Building**: TensorFlow, PyTorch, SkLearn
+- **Data Handling**: Cleaning, Wrangling, Visualizing, Story telling
 
 I have been the lead AI developer on altfind.co which is an AI-Powered Recruitment Engine with features like:
 - Automatically find best-fit candidates for a job description
