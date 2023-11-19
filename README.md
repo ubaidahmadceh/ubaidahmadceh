@@ -5,7 +5,7 @@ I am Ubaid, working as an AI Engineer for the past two years in startup ecosyste
 You can take a quick look at my work/portfolio on my YouTube Channel: @UBprogrammer
 
 ## My everyday work includes: 
-- Generative AI: LLMs, OpenAI Products, LangChain, HuggingFace, GPT models, NLP, Vector dbs, etc.
+- **Generative AI**: LLMs, OpenAI Products, LangChain, HuggingFace, GPT models, NLP, Vector dbs, etc.
 - Programming Languages: Python, JavaScript, Html, Css
 - Backend Frameworks (APIs): Django, Flask, FastAPI
 - Cloud & Deployment: AWS, GCP, Azure, Replit, Dockers, Kubernetes, Nginx
