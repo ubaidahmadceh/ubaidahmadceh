@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey there! 👋
 
-I am Ubaid 💻 (An AI Engineer, very passionate towards AI, Machine Learning, Deep Learning etc. 😄)
+I am Ubaid, working as an AI Engineer for the past two years in startup ecosystems and have been actively contributing to cutting-edge AI projects.
 
-🐍 I am a proficient programmer in Python, with working knowledge of R.
+You can take a quick look at my work/portfolio on my YouTube Channel: @UBprogrammer
 
-✨ I am well versed with the practical application as well as theory and statistics of majority of Machine Learning and Deep Learning Algorithms.
+## My everyday work includes: 
+- Generative AI: LLMs, OpenAI Products, LangChain, HuggingFace, GPT models, NLP, Vector dbs, etc.
+- Programming Languages: Python, JavaScript, Html, Css
+- Backend Frameworks (APIs): Django, Flask, FastAPI
+- Cloud & Deployment: AWS, GCP, Azure, Replit, Dockers, Kubernetes, Nginx
+- ML Model Building: TensorFlow, PyTorch, SkLearn
+- Data Handling: Cleaning, Wrangling, Visualizing, Story telling
 
-🔰 I can deploy Machine Learning and Deep Learning models using Flask, Django and Streamlit.
+I have been the lead AI developer on altfind.co which is an AI-Powered Recruitment Engine with features like:
+- Automatically find best-fit candidates for a job description
+- Assign quantified scoring to every candidate applying for a job
+- Analyze async Video Interviews and much more
 
-🌏 I have also built several websites using Flask, Django, HTML, CSS and basic Javascript.
-
-### Contact me:
+looking forward to contribute in revolutionary projects.
+Thanks!
 
 <div id="header" align="center">
   <div id="badges">
