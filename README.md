@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I am Ubaid, working as an AI Engineer for the past two years in startup ecosystems and have been actively contributing to cutting-edge AI projects.
+I am Ubaid, working as an AI Engineer in startup ecosystems and have been actively contributing to cutting-edge AI projects.
 
 You can take a quick look at my work/portfolio on my YouTube Channel: @UBprogrammer
 
